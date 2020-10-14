@@ -77,10 +77,7 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>com.sun.mail</groupId>
-            <artifactId>taglib</artifactId>
-        </dependency>
+        
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
